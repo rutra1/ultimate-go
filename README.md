@@ -1,5 +1,4 @@
 # The Ultimate Go Study Guide
-A short test
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/hoanhan101/ultimate-go)
 ](https://goreportcard.com/report/github.com/hoanhan101/ultimate-go)
